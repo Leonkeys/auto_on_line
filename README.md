@@ -1,2 +1,11 @@
-# auto_on_line
-automated on line data
+# 自动化上线项目
+### config.yml
+
+    全局变量配置文件，目前配置base_path目标绝对路径，
+    所有输出文件最终路径由base_path拼接其相对路径形成。
+
+### 小货车
+``
+
+``
+
