@@ -1,0 +1,15 @@
+
+base:
+  base_uri: /data/data3/zhangdq/online_data
+  dates: ""
+
+
+small_truck:
+  data_uri:
+  version: ""
+big_truck:
+  data_uri:
+  version: ""
+private_car:
+  data_uri:
+  version: ""
